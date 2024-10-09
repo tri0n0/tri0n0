@@ -33,3 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tri0n0&" alt="tri0n0" /></p>
 tri0n0's GitHub | Stats](https://stats.quira.sh/tri0n0/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tri0n0
+<p><img align="center" src="https://stats.quira.sh/tri0n0/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=tri0n0" alt="tri0n0"/></p>
